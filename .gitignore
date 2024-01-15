@@ -1,0 +1,8 @@
+build/
+install/
+log/
+logs/
+
+/ardupilot
+/cache
+/src/ardupilot_gazebo
